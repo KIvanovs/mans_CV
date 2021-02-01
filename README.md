@@ -1,11 +1,11 @@
 # Curriculum Vitae
 ![PhotoCV](https://b.radikal.ru/b15/2102/35/907bca1d3068.png)
 
-## Kirils Ivanovs(28.03.2004)
+## Kirils Ivanovs
 * Dzīvesvieta adrese:Rīga,Purvciems,Viršu 7-5
 * E-pasts: ekspanser@gmail.com
 * Mob.tālrunis: +371 20404555
-* Dzīmis: 28.04.2004
+* Dzīmis: 28.03.2004
 
 ## Izglītība
 * 2020 gada Septembris līdz šai dienai Profesionālās Izglītības Kompentences Centrs "Rīgas Valsts tehnikums",programmešanas tehniķis
