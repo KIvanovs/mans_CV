@@ -16,7 +16,7 @@
 
 ## Valodu prasmes:
 * Krievu-dzimta
-* Latviešu-lavi
+* Latviešu-labi
 * Angļu-labi
 
 ## Citas prasmes:
